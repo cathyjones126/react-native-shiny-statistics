@@ -1,6 +1,6 @@
 {
     "name": "react-native-shiny-statistics",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "this is designed for shiny",
     "homepage": "https://github.com/cathyjones126/react-native-shiny-statistics",
     "main": "index.js",
@@ -21,7 +21,8 @@
     },
     "peerDependencies": {
       "react": "*",
-      "react-native": "*"
+      "react-native": "*",
+      "sensorsdata-analytics-react-native": "2.3.4"
     }
   }
   
