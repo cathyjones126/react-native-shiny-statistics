@@ -1,28 +1,29 @@
 {
-    "name": "react-native-shiny-statistics",
-    "version": "1.0.1",
-    "description": "this is designed for shiny",
-    "homepage": "https://github.com/cathyjones126/react-native-shiny-statistics",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-      "react-native-shiny-statistics"
-    ],
-    "author": {
-      "name": "shiny",
-      "email": "shiny@example.com"
-    },
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cathyjones126/react-native-shiny-statistics.git"
-    },
-    "peerDependencies": {
-      "react": "*",
-      "react-native": "*",
-      "sensorsdata-analytics-react-native": "2.3.4"
-    }
+  "name": "react-native-shiny-statistics",
+  "version": "1.0.2",
+  "description": "this is designed for shiny",
+  "homepage": "https://github.com/cathyjones126/react-native-shiny-statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-shiny-statistics"
+  ],
+  "author": {
+    "name": "shiny",
+    "email": "shiny@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cathyjones126/react-native-shiny-statistics.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "sensorsdata-analytics-react-native": "2.3.4"
   }
-  
+}
